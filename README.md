@@ -17,17 +17,17 @@ The Linked List implementation provides a dynamic data structure that allows eff
 ## Hash Table
 The Hash Table implementation provides a data structure that enables efficient key-value pair storage and retrieval. It uses a hash function to map keys to indices in an array, allowing constant-time access in most cases.
 
-[More about Hash Table](./hash-table/README.md)
+[More about Hash Table](./HashTable/README.md)
 
 ## Binary Tree
 The Binary Tree implementation provides a hierarchical data structure where each node has at most two children, referred to as the left child and the right child. It supports various operations such as insertion, deletion, and traversal.
 
-[More about Binary Tree](./binary-tree/README.md)
+[More about Binary Tree](./BinaryTree/README.md)
 
 ## Binary Search Tree
 The Binary Search Tree (BST) implementation is a specialized version of the binary tree where the left child of a node contains a smaller value, and the right child contains a larger value. It enables efficient searching, insertion, and deletion operations.
 
-[More about Binary Search Tree](./binary-search-tree/README.md)
+[More about Binary Search Tree](./BinarySearchTree/README.md)
 
 ## Contact
 If you have any questions or suggestions regarding these projects, feel free to reach out to me:
