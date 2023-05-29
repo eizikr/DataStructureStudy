@@ -14,4 +14,4 @@ To use the Linked List implementation, follow these steps:
 3. Compile the source code using a C compiler.
 4. Execute the compiled binary.
 
-For more detailed information on how to use the Linked List implementation, please refer to the [linked-list/README.md](https://www.geeksforgeeks.org/data-structures/linked-list/) file.
+For more detailed information on how to use the Linked List implementation, please refer to [linked-list](https://www.geeksforgeeks.org/data-structures/linked-list/) page.
