@@ -12,7 +12,7 @@ This repository contains four different data structure implementations in C: Lin
 ## Linked List
 The Linked List implementation provides a dynamic data structure that allows efficient insertion, deletion, and traversal operations. It consists of a collection of nodes, each containing a value and a reference to the next node in the list.
 
-[More about Linked List](./linked-list/README.md)
+[More about Linked List](./LinkedList/README.md)
 
 ## Hash Table
 The Hash Table implementation provides a data structure that enables efficient key-value pair storage and retrieval. It uses a hash function to map keys to indices in an array, allowing constant-time access in most cases.
