@@ -32,5 +32,4 @@ The Binary Search Tree (BST) implementation is a specialized version of the bina
 ## Contact
 If you have any questions or suggestions regarding these projects, feel free to reach out to me:
 
-- Name: Itzik Rahamim
 - LinkedIn: [Itzik Rahamim](https://www.linkedin.com/in/itzik-rahamim-developer)
